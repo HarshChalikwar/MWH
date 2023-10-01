@@ -4,8 +4,7 @@
 This repository contains the source code and resources for an innovative web scraping and conversational question-answering application. The application leverages web scraping techniques, Langchain, and the GPT-3.5 language model to extract information from websites and provide answers to various questions in a natural and conversational style. It also includes a user-friendly frontend built using Gradio for easy interaction.
 
 ## Demo!
-![WhatsApp Image 2023-10-01 at 06 54 48_b2dd2139](https://github.com/HarshChalikwar/MWH/assets/96125830/21bade7a-9e22-4a4c-9586-749d30d36df4)
-
+![image](https://github.com/HarshChalikwar/MWH/assets/96125830/4766ef6c-4958-4806-85ea-bedddf6850e6)
 
 ## Features
 * Web Scraping: The application uses web scraping to extract content from websites. It can scrape and analyze entire websites to gather information.
