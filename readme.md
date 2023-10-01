@@ -19,3 +19,6 @@ This repository contains the source code and resources for an innovative web scr
 * Caching: To improve performance and reduce the load on the web servers, the application includes a caching mechanism to store and retrieve previously scraped data.
 
 * User-Friendly Frontend: The Gradio frontend provides an intuitive interface for users to input their questions and receive conversational responses.
+
+## Credits
+[Tejas Agrawal](https://github.com/tej-55), [Harsh Chalikwar](https://github.com/HarshChalikwar), [Soham Guha Mazumder](https://github.com/Rx-SGM), [Devarsh Kumbhare](https://github.com/DevarshKumbhare)
